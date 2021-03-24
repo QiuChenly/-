@@ -1,0 +1,4 @@
+/imgs*
+/venv
+/cached.txt
+.DS_Store
